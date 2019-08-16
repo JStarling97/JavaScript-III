@@ -1,11 +1,11 @@
 /* The for principles of "this";
 * in your own words. explain the four principle for the "this" keyword below.
 *
-* 1. Window/Global Object Binding is the default binding, It refers to the window context. 
+* 1. Window/Global Object Binding is the default binding, It refers to global value. 
 * 2. Implicit Binding refers to the left of the dot.
 * 3. Explicit Binding happens when .call() .apply() or .bind() is used in a function. You explicitly pass 
 in a this context to call().
-* 4. New Binding refers to the specific instance of an object. 
+* 4. New Binding refers to newly created object returned by the constructor. 
 *
 * write out a code example of each explanation above
 */
